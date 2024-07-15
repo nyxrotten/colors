@@ -29,6 +29,7 @@
   border-width: 1px;
   border-style: solid;
   color: white;
+  font-size: 1.4em;
 }
 
 /* Estilos para el input */
@@ -44,7 +45,94 @@ input {
   margin-bottom: 20px;
 }
 
+.red{
+  border: 1px solid red;
+  color: red;
+}
+
+.green {
+  border: 1px solid green;
+  color: green;
+}
+
+.pink{
+  border: 1px solid pink;
+  color: pink;
+}
+
+.yellow{
+  border: 1px solid yellow;
+  color: yellow;
+}
+
+.purple{
+  border: 1px solid purple;
+  color: purple;
+}
+
+.white{
+  border: 1px solid white;
+  color: white;
+}
+
+.blue{
+  border: 1px solid blue;
+  color: blue;
+}
+
+.aqua{
+  border: 1px solid aqua;
+  color: aqua;
+}
+
+.olive{
+  border: 1px solid olive;
+  color: olive;
+}
 
 
+#red {
+  background-color: red;
+  color: white;
+}
 
 
+#green {
+  background-color:  green;
+  color: white;
+}
+
+#pink{
+  background-color:  pink;
+  color: black;
+}
+
+#yellow{
+background-color:  yellow;
+  color: white;
+}
+
+#purple{
+  background-color:  purple;
+  color: white;
+}
+
+#white{
+  background-color: white;
+  color: black;
+}
+
+#blue{
+  background-color:  blue;
+  color: white;
+}
+
+#aqua{
+  background-color:  aqua;
+  color: white;
+}
+
+#olive{
+  background-color: olive;
+  color: white;
+}
